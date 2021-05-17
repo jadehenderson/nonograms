@@ -1,4 +1,4 @@
-# a09-nonograms
+# nonograms
 
 ## Introduction
 
